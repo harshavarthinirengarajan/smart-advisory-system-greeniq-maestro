@@ -1,0 +1,21 @@
+{
+  "short_name": "GreenIQ",
+  "name": "GREENIQ MAESTRO",
+  "description": "A comprehensive web application providing farmers with AI-powered insights for crop management.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#22c55e",
+  "background_color": "#f9fafb"
+}
